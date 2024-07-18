@@ -1,0 +1,6 @@
+@API_ASPDOTNET_HostAddress = http://localhost:5074/api/v1
+
+DELETE {{API_ASPDOTNET_HostAddress}}/pizza/2
+
+###
+
